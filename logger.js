@@ -34,6 +34,7 @@ try {
 logger.info("Hello how are you");
 logger.error("Sample error");
 logger.warn("Sample warning message: ");
+logger.info("Sample warning message 2222222222222222");
 // let mydate = new Date();
 
 // const filename =
